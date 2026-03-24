@@ -1,8 +1,8 @@
-# Peek-a-Hide Releases
+# Peek-a-Hide Firmware
 
 Firmware update bundles for the **Peek-a-Hide** reptile hide camera system by [AuDHDly Reptile Studio](https://reptile-studio.audhdly.com).
 
-This repository contains no source code — only release artifacts. The latest release is always at the top of the [Releases](../../releases) page.
+This repository contains no source code, only release artifacts. The latest release is always at the top of the [Releases](../../releases) page.
 
 ---
 
